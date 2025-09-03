@@ -1,2 +1,1 @@
-# Programacion-Web
-Parcial 1
+Entrega de trabajo en clase
